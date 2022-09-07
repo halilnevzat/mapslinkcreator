@@ -7,4 +7,4 @@ creates links for apple maps, google maps and yandex maps with custom longitude 
 
 ### not : applemaps eğer apple bir cihazdan giriyor iseniz çalışıyor, yoksa googlemapse yönlendiriyor.
 
-https://t.co/ZYahKsAnVt
+ ayrıntılı bilgi https://t.co/ZYahKsAnVt
