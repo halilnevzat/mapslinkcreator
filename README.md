@@ -8,3 +8,6 @@ creates links for apple maps, google maps and yandex maps with custom longitude 
 ### not : applemaps eğer apple bir cihazdan giriyor iseniz çalışıyor, yoksa googlemapse yönlendiriyor.
 
  ayrıntılı bilgi https://t.co/ZYahKsAnVt
+
+
+#### v0.02 iconlar eklendi, haritaların yeni sekmede açılması için target blank eklendi. bootstrape geçildi
