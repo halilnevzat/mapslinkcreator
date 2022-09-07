@@ -3,4 +3,4 @@ creates links for apple maps, google maps and yandex maps with custom longitude 
 
 
 
-##çok acıktım yemek yicem, görsel iyileştirme yapılacak bootstrap ile.
+## çok acıktım yemek yicem, görsel iyileştirme yapılacak bootstrap ile.
